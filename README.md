@@ -5,18 +5,6 @@ This repo contains an implementation of [Ghost adaptative thresholding](https://
 # Getting Started
 Ghost requires python >= 3.7
 
-To install the Ghost package, define the PIP_EXTRA_INDEX_URL environment variable:
-
-```bash
-export PIP_EXTRA_INDEX_URL='https://YOUR-PAT-TOKEN@pkgs.dev.azure.com/symanto/_packaging/Research/pypi/simple'
-```
-
-## Install with pip
-
-```bash
-pip install symanto-ghost
-```
-
 ## Install from source
 
 ```bash
@@ -96,4 +84,4 @@ The following figures show the distribution of the predicted labels by each meth
 
 
 # Contribute
-Please install and use symanto-dev-tools for correctly formatting the code when contributing to this repo.
+Please install and use dev-tools for correctly formatting the code when contributing to this repo.
